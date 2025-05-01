@@ -3,7 +3,7 @@ package wifi_test
 import (
 	"testing"
 
-	"github.com/jurgen-kluft/go-esp32-controller/wifi"
+	"github.com/jurgen-kluft/go-esp32-control/wifi"
 	"github.com/jurgen-kluft/go-utils/assert"
 )
 

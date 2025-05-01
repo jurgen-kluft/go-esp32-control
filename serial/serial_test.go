@@ -3,7 +3,7 @@ package serial_test
 import (
 	"testing"
 
-	"github.com/jurgen-kluft/go-esp32-controller/serial"
+	"github.com/jurgen-kluft/go-esp32-control/serial"
 	"github.com/jurgen-kluft/go-utils/assert"
 )
 

@@ -3,7 +3,7 @@ package digital_test
 import (
 	"testing"
 
-	"github.com/jurgen-kluft/go-esp32-controller/digital"
+	"github.com/jurgen-kluft/go-esp32-control/digital"
 	"github.com/jurgen-kluft/go-utils/assert"
 )
 
