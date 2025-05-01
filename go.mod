@@ -1,3 +1,5 @@
-module github.com/jurgen-kluft/go-esp32-controller
+module github.com/jurgen-kluft/go-esp32-control
 
-go 1.19
+go 1.23.8
+
+require github.com/jurgen-kluft/go-utils v0.0.1
