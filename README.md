@@ -1,11 +1,6 @@
 # ESP32 Controller
 
-[![License](https://img.shields.io/github/license/jurgen-kluft/esp32)](https://github.com/jurgen-kluft/esp32-controller/blob/master/LICENSE)
-[![Releases](https://img.shields.io/github/v/release/jurgen-kluft/esp32)](https://github.com/jurgen-kluft/esp32-controller/releases)
-[![Go Report Card](https://goreportcard.com/badge/github.com/jurgen-kluft/esp32)](https://goreportcard.com/report/github.com/jurgen-kluft/esp32)
-[![Maintainability](https://api.codeclimate.com/v1/badges/3658b2bdb86b0c27ae20/maintainability)](https://codeclimate.com/github/jurgen-kluft/esp32-controller/maintainability)
-
-Provide an API for mapping Golang into Arduino code, which can be used by [ESP Transpiler](https://github.com/jurgen-kluft/esp32-transpiler)
+Provide an API for mapping Golang into Arduino code, which can be used by [Go to Cpp](https://github.com/jurgen-kluft/go-cxx)
 
 ## API Functionality
 
