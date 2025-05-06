@@ -3,29 +3,17 @@ package serial
 import "fmt"
 
 const (
-	// BaudRate300 ...
-	BaudRate300 = 300
-	// BaudRate600 ...
-	BaudRate600 = 600
-	// BaudRate1200 ...
-	BaudRate1200 = 1200
-	// BaudRate2400 ...
-	BaudRate2400 = 2400
-	// BaudRate4800 ...
-	BaudRate4800 = 4800
-	// BaudRate9600 ...
-	BaudRate9600 = 9600
-	// BaudRate14400 ...
-	BaudRate14400 = 14400
-	// BaudRate19200 ...
-	BaudRate19200 = 19200
-	// BaudRate28800 ...
-	BaudRate28800 = 28800
-	// BaudRate38400 ...
-	BaudRate38400 = 38400
-	// BaudRate57600 ...
-	BaudRate57600 = 57600
-	// BaudRate115200 ...
+	BaudRate300    = 300
+	BaudRate600    = 600
+	BaudRate1200   = 1200
+	BaudRate2400   = 2400
+	BaudRate4800   = 4800
+	BaudRate9600   = 9600
+	BaudRate14400  = 14400
+	BaudRate19200  = 19200
+	BaudRate28800  = 28800
+	BaudRate38400  = 38400
+	BaudRate57600  = 57600
 	BaudRate115200 = 115200
 )
 

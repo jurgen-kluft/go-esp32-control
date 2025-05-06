@@ -1,16 +1,11 @@
 package digital
 
 const (
-	// High ...
-	High = 1
-	// Low ...
-	Low = 0
-	// ModeInput ...
-	ModeInput = 0
-	// ModeOutput ...
+	High       = 1
+	Low        = 0
+	ModeInput  = 0
 	ModeOutput = 1
-	// PinsMax ...
-	PinsMax = 48
+	PinsMax    = 48
 )
 
 var (
